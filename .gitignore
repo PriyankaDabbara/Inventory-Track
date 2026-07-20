@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+.python-version
+.pytest_cache/
+.pytest_cache/*
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+htmlcov/
+coverage.xml
+.coverage
+.coverage.*
+*.cover
+*.log
+*.sqlite3
+*.db
+.env
+.env.*
+venv/
+ENV/
+env/
+myenv/
+.venv/
+
+# FastAPI / general Python
+instance/
+web/assets/
+
+# Node frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/myenv
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

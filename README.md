@@ -23,7 +23,7 @@ This project combines a FastAPI backend with a React frontend. The backend expos
 1. Activate the Python virtual environment:
 
 ```powershell
-cd C:\Users\91807\Desktop\FastAPI-Project
+cd C:\Users\Desktop\FastAPI-Project
 & .\myenv\Scripts\Activate.ps1
 ```
 
@@ -55,14 +55,14 @@ For production or shared repositories, do not commit credentials. Use environmen
 Start the backend:
 
 ```powershell
-cd C:\Users\91807\Desktop\FastAPI-Project
+cd C:\Users\Desktop\FastAPI-Project
 uvicorn main:app --reload
 ```
 
 Start the frontend:
 
 ```powershell
-cd C:\Users\91807\Desktop\FastAPI-Project\frontend
+cd C:\Users\Desktop\FastAPI-Project\frontend
 npm start
 ```
 

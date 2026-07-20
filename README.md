@@ -76,3 +76,10 @@ The frontend is configured to proxy API requests to `http://localhost:8000`.
 - `PUT /products/{id}` - update a product
 - `DELETE /products/{id}` - delete a product
 
+## Video
+
+https://github.com/user-attachments/assets/25882bb5-fb43-4efc-8d71-4cc2fb463abf
+
+
+
+
